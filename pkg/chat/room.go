@@ -1,10 +1,10 @@
-package main
+package chat
 
 import (
 	"log"
 	"net/http"
 
-	"github.com/Ryzhon/go_chat/cmd/trace"
+	"github.com/Ryzhon/go_chat/pkg/trace"
 	"github.com/gorilla/websocket"
 )
 

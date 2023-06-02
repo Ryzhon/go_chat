@@ -1,4 +1,4 @@
-module github.com/Ryzhon/loghouse
+module github.com/Ryzhon/go_chat
 
 go 1.20
 
